@@ -143,5 +143,5 @@ func GetFooterText() string {
 
 // GetGithubURL returns the GitHub URL (hardcoded to ada repository)
 func GetGithubURL() string {
-	return "https://github.com/rvizx/ada"
+	return "https://github.com/rvzsec/ada"
 }

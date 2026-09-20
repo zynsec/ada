@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/rvizx/ada/internal"
+	"github.com/rvzsec/ada/internal"
 )
 
 // version will be set during build via ldflags
